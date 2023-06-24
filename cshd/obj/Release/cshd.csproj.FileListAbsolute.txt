@@ -1,0 +1,16 @@
+D:\cshd\cshd\obj\Release\cshd.csproj.AssemblyReference.cache
+D:\cshd\cshd\obj\Release\cshd.csproj.SuggestedBindingRedirects.cache
+D:\cshd\cshd\obj\Release\cshd.Form1.resources
+D:\cshd\cshd\obj\Release\cshd.Form2.resources
+D:\cshd\cshd\obj\Release\cshd.Form3.resources
+D:\cshd\cshd\obj\Release\cshd.login.resources
+D:\cshd\cshd\obj\Release\cshd.lutujeme.resources
+D:\cshd\cshd\obj\Release\cshd.mojehodnotenia.resources
+D:\cshd\cshd\obj\Release\cshd.profile.resources
+D:\cshd\cshd\obj\Release\cshd.Properties.Resources.resources
+D:\cshd\cshd\obj\Release\cshd.rebricek.resources
+D:\cshd\cshd\obj\Release\cshd.register.resources
+D:\cshd\cshd\obj\Release\cshd.UserControl1.resources
+D:\cshd\cshd\obj\Release\cshd.users.resources
+D:\cshd\cshd\obj\Release\cshd.csproj.GenerateResource.cache
+D:\cshd\cshd\obj\Release\cshd.csproj.CoreCompileInputs.cache
